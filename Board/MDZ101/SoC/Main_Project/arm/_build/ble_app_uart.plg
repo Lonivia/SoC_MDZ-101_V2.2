@@ -1,0 +1,111 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\GLN\Desktop\SoC_MDZ-101_V0.15\Board\MDZ101\SoC\Main_Project\arm\ble_app_uart.uvproj
+Project File Date:  07/31/2015
+
+<h2>Output:</h2>
+Load "C:\\Users\\GLN\\Desktop\\SoC_MDZ-101_V0.15\\Board\\MDZ101\\SoC\\Main_Project\\arm\\_build\\ble_app_uart.AXF" 
+Set JLink Project File to "C:\Users\GLN\Desktop\SoC_MDZ-101_V0.15\Board\MDZ101\SoC\Main_Project\arm\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Jul 17 2014 12:31:18
+Hardware: V8.00
+S/N : 286370559 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x0BB11477
+* JLink Info: Found SWD-DP with ID 0x0BB11477
+**JLink Warning: No matching core found.
+***JLink Error: Wrong ROM location (15:2). Expected 0xE00FF003, Found 0xF0000003
+ROMTableAddr = 0x0
+ 
+Target info:
+------------
+Device: nRF51822_xxAA
+***JLink Error: ERROR: Unknown command
+VTarget = 3.293V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 0
+Software-Breakpoints: 2048
+Watchpoints:          0
+JTAG speed: 1000 kHz
+ 
+Include "C:\\Users\\GLN\\Desktop\\SoC_MDZ-101_V0.15\\Board\\MDZ101\\SoC\\Main_Project\\arm\\JLinkSettings.ini" 
+[BREAKPOINTS]
+^
+*** error 10: Syntax error
+Erase Failed!
+Load "C:\\Users\\GLN\\Desktop\\SoC_MDZ-101_V0.15\\Board\\MDZ101\\SoC\\Main_Project\\arm\\_build\\ble_app_uart.AXF" 
+Set JLink Project File to "C:\Users\GLN\Desktop\SoC_MDZ-101_V0.15\Board\MDZ101\SoC\Main_Project\arm\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Jul 17 2014 12:31:18
+Hardware: V8.00
+S/N : 286370559 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x0BB11477
+* JLink Info: Found SWD-DP with ID 0x0BB11477
+**JLink Warning: No matching core found.
+***JLink Error: Wrong ROM location (15:2). Expected 0xE00FF003, Found 0xF0000003
+ROMTableAddr = 0x0
+ 
+Target info:
+------------
+Device: nRF51822_xxAA
+***JLink Error: ERROR: Unknown command
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 0
+Software-Breakpoints: 2048
+Watchpoints:          0
+JTAG speed: 1000 kHz
+ 
+Include "C:\\Users\\GLN\\Desktop\\SoC_MDZ-101_V0.15\\Board\\MDZ101\\SoC\\Main_Project\\arm\\JLinkSettings.ini" 
+[BREAKPOINTS]
+^
+*** error 10: Syntax error
+Erase Failed!
+Load "C:\\Users\\GLN\\Desktop\\SoC_MDZ-101_V0.15\\Board\\MDZ101\\SoC\\Main_Project\\arm\\_build\\ble_app_uart.AXF" 
+Set JLink Project File to "C:\Users\GLN\Desktop\SoC_MDZ-101_V0.15\Board\MDZ101\SoC\Main_Project\arm\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Jul 17 2014 12:31:18
+Hardware: V8.00
+S/N : 286370559 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x0BB11477
+* JLink Info: Found SWD-DP with ID 0x0BB11477
+**JLink Warning: No matching core found.
+***JLink Error: Wrong ROM location (15:2). Expected 0xE00FF003, Found 0xF0000003
+ROMTableAddr = 0x0
+ 
+Target info:
+------------
+Device: nRF51822_xxAA
+***JLink Error: ERROR: Unknown command
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 0
+Software-Breakpoints: 2048
+Watchpoints:          0
+JTAG speed: 1000 kHz
+ 
+Include "C:\\Users\\GLN\\Desktop\\SoC_MDZ-101_V0.15\\Board\\MDZ101\\SoC\\Main_Project\\arm\\JLinkSettings.ini" 
+[BREAKPOINTS]
+^
+*** error 10: Syntax error
+Erase Failed!
